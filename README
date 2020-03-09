@@ -1,0 +1,3 @@
+#code for generation of pure yaw motion in OpenFOAM
+#OpenFOAM version 1712
+#C++
